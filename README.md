@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/08fa9f5b-dcb7-4f5e-8721-203468dda5f3" width="100%" style="border-radius: 10px; border: 1px solid #30363d;">
+  <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/08fa9f5b-dcb7-4f5e-8721-203468dda5f3" width="70%" style="border-radius: 10px; border: 1px solid #30363d;">
 </p>
 
 <h1 align="center">Punam</h1>
