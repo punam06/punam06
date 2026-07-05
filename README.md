@@ -1,31 +1,31 @@
-# Hi, I'm Punam
+# Punam
 
-I’m a Computer Science and Engineering student at Bangladesh University of Professionals (BUP), focused on building practical, research-driven work across sustainable technology, interpretable AI, and hardware-aware optimization.
+Computer Science and Engineering student at Bangladesh University of Professionals (BUP), building work at the intersection of sustainable technology, interpretable AI, and hardware-aware optimization.
 
 ## About Me
 
 - CSE student at BUP
-- Interested in sustainable technology, especially waste-to-energy systems
+- Focused on sustainable technology, especially waste-to-energy systems
 - Exploring AI research with KAN and SHAP for interpretable model analysis
-- Working on hardware optimization and low-level problem solving with 8086 and 8051
+- Interested in hardware optimization and low-level problem solving with 8086 and 8051
 
 ## Tech Stack
 
-### Programming Languages
+### Core Languages
 - C
 - C++
 - Python
 - Java
 - JavaScript
 
-### AI and Data
+### AI and Research
 - PyTorch
 - TensorFlow
 - scikit-learn
 - SHAP
 - KAN
 
-### Web and Development
+### Development
 - HTML
 - CSS
 - React
@@ -40,11 +40,11 @@ I’m a Computer Science and Engineering student at Bangladesh University of Pro
 - Docker
 - VS Code
 
-## Current Interests
+## Current Focus
 
 - Sustainable engineering and waste-to-energy systems
-- AI research with explainability and feature attribution
-- Efficient computation and hardware optimization on 8086 and 8051 architectures
+- Explainable AI research and model interpretation
+- Efficient computation on 8086 and 8051 architectures
 
 ## GitHub Stats
 
@@ -54,6 +54,6 @@ I’m a Computer Science and Engineering student at Bangladesh University of Pro
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=punam06&theme=tokyonight&hide_border=true)
 
-## Closing Note
+## Note
 
-I enjoy turning ideas into efficient, reliable, and meaningful systems that connect theory with real-world impact.
+I value practical, research-driven systems that are efficient, meaningful, and ready for real-world use.
