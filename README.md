@@ -51,7 +51,7 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=punam06&layout=compact&theme=tokyonight&hide_border=false)
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=punam06&theme=tokyonight&hide_border=false)
 
-![punam06's Graph](https://github-readme-activity-graph.vercel.app/graph?username=punam06&theme=tokyonight&hide_border=false)
+![punam06's Graph](https://github-readme-activity-graph.vercel.app/graph?username=punam06&bg_color=000000&color=58A6FF&line=58A6FF&point=58A6FF&area=true&hide_border=false)
 
 </div>
 
