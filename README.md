@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://i.pinimg.com/originals/ca/26/2e/ca262e0354eea311c41134c3e4bc3bc2.gif" width="100%" style="border-radius: 10px; border: 1px solid #30363d;">
+  <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/08fa9f5b-dcb7-4f5e-8721-203468dda5f3" width="100%" style="border-radius: 10px; border: 1px solid #30363d;">
 </p>
 
 <h1 align="center">Punam</h1>
@@ -50,6 +50,8 @@
 ![punam06's Stats](https://github-readme-stats.vercel.app/api?username=punam06&show_icons=true&theme=tokyonight&hide_border=false)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=punam06&layout=compact&theme=tokyonight&hide_border=false)
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=punam06&theme=tokyonight&hide_border=false)
+
+![punam06's Graph](https://github-readme-activity-graph.vercel.app/graph?username=punam06&theme=tokyonight&hide_border=false)
 
 </div>
 
